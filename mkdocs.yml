@@ -1,0 +1,5 @@
+site_name: Dinámica Molecular en Dos Dimensiones: Discos Sólidos
+theme:
+  name: material
+nav:
+  - Inicio: index.md
