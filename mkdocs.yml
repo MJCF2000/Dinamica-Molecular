@@ -3,3 +3,4 @@ theme:
   name: material
 nav:
   - Inicio: index.md
+  - Compilación: compilation.md
